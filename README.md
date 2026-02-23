@@ -60,7 +60,7 @@ Event Delegation মানে হলো —
 
 
 ### Auther
-- **নাম:** [Md. Mahedi Hasan]
+- **Name:** [Md. Mahedi Hasan]
 - **GitHub Repository:** [https://github.com/amimahedihasan/job-application-tracker.git]
 - **live link:** [https://amimahedihasan.github.io/job-application-tracker/]
 
